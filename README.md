@@ -1,4 +1,4 @@
-# Evaluación parcial 1
+# WENA PARRA SEX
 Desarrollo del primer trabajo de acústica computacional con python, utilizando jupyter notebook y github como herramienta de trabajo en equipo
 #
 ### Integrantes: Diego Cuevas, Patricio 
